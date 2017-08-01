@@ -1,0 +1,49 @@
+## Storage files
+.DS_Store
+
+## Library folder
+my_library/
+
+## Archives
+*.zip
+*.rar
+
+## output LaTeX files
+*.dvi
+*.pdf
+*.ps
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.idx
+*.synctex.gz
+*.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# hyperref
+*.brf
