@@ -1,3 +1,3 @@
 # scollovati.github.io
 
-Home Page for [stefanocollovati.it](http://www.stefanocollovati.it/)
+Home Page for [stefanocollovati.it](http://stefanocollovati.it/)
