@@ -25,6 +25,7 @@ github_username:  scollovati
 # Build settings
 source: ./jekyll
 destination: ./blog
+incremental: BOOL
 markdown: kramdown
 theme: minima
 plugins:
