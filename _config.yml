@@ -23,9 +23,9 @@ url: "https://stefanocollovati.it" # the base hostname & protocol for your site,
 twitter_username: scollovati
 github_username:  scollovati
 
-# specific pages folder
-#include: ['_pages']
+permalink: pretty
 
+# specific pages folder
 collections:
   pages:
     output: true
